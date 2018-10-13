@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjectPshio.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\ProjectPshio\Intermediate\Build\Win64\ProjectPshioEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Unreal Projects\ProjectPshio\Intermediate\Build\Win64\UE4Editor\Development\ProjectPshio\ProjectPshio.cpp.obj"
+"E:\Unreal Projects\ProjectPshio\Intermediate\Build\Win64\UE4Editor\Development\ProjectPshio\ProjectPshioGameModeBase.cpp.obj"
+"E:\Unreal Projects\ProjectPshio\Intermediate\Build\Win64\UE4Editor\Development\ProjectPshio\ProjectPshio.init.gen.cpp.obj"
+"E:\Unreal Projects\ProjectPshio\Intermediate\Build\Win64\UE4Editor\Development\ProjectPshio\ProjectPshioGameModeBase.gen.cpp.obj"
+"E:\Unreal Projects\ProjectPshio\Intermediate\Build\Win64\UE4Editor\Development\ProjectPshio\PCLaunch.rc.res"
+/OUT:"E:\Unreal Projects\ProjectPshio\Intermediate\Build\Win64\UE4Editor\Development\ProjectPshio\UE4Editor-ProjectPshio.lib"
